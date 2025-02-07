@@ -157,7 +157,7 @@ export default function Home() {
                   搜索之道
                 </h2>
                 <p className="mt-4 text-lg text-gray-600">
-                  内置丰富的搜索引擎和快捷方式，满足日常需求，为工作学习提速。
+                  内置丰富的搜索引擎和快捷组件，满足日常需求，为工作学习提速。
                 </p>
               </div>
             </div>
